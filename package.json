@@ -21,6 +21,6 @@
     "node-progress": "^0.1.0"
   },
   "devDependencies": {
-    "standard": "^13.1.0"
+    "standard": "^14.0.0"
   }
 }
