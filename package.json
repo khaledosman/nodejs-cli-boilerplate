@@ -14,7 +14,7 @@
   "dependencies": {
     "chalk": "^2.4.2",
     "clui": "^0.3.6",
-    "commander": "^3.0.0",
+    "commander": "^4.0.0",
     "figlet": "^1.2.3",
     "inquirer": "^7.0.0",
     "inquirer-fuzzy-path": "^2.0.3",
