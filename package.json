@@ -12,15 +12,15 @@
   "author": "Khaled Osman",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^2.4.2",
+    "chalk": "^3.0.0",
     "clui": "^0.3.6",
-    "commander": "^3.0.0",
-    "figlet": "^1.2.3",
-    "inquirer": "^6.5.0",
-    "inquirer-fuzzy-path": "^2.0.3",
+    "commander": "^4.0.1",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.1",
+    "inquirer-fuzzy-path": "^2.2.0",
     "node-progress": "^0.1.0"
   },
   "devDependencies": {
-    "standard": "^13.1.0"
+    "standard": "^14.3.1"
   }
 }
