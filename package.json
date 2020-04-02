@@ -12,7 +12,7 @@
   "author": "Khaled Osman",
   "license": "ISC",
   "dependencies": {
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "clui": "^0.3.6",
     "commander": "^4.0.1",
     "figlet": "^1.2.4",
